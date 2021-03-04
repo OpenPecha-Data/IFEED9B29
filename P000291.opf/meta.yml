@@ -1,15 +1,16 @@
-id: opecha:P000291
+id: P000291
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN8043
   title: ཁྲོམ་དགེ་སྒྲུབ་སྒྲོན་མའི་དག་སྣང་སོགས།
-  volume:
+  author: ''
+  volumes:
     149558b2bcdc4f5ab3b49a7e235b7d9c:
       image_group_id: I3CN8045
       title: Volume 1 of khrom dge sgrub sgron ma'i dag snang sogs/
       volume_number: 1
       total_pages: 392
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཁྲོམ་དགེ་སྒྲུབ་སྒྲོན་མའི་དག་སྣང་སོགས།
   author: ''
